@@ -11,6 +11,7 @@ Dependencies:
 
 
 Command line execution: python runprediction.py 
-To run a single prediction, enter /"
+
+To run a single prediction, enter "1"
 To run a multi-run prediction with different training data for each run, enter "2". For each run the results are saved as .csv file
 
